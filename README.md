@@ -71,7 +71,7 @@ classDiagram
 ```
 -   ![mermaid-diagram-20211002123520](https://user-images.githubusercontent.com/83532253/135705343-642131e2-c681-4669-a812-d28bb7b5ecec.png)
 - ER Diagram
-
+- ![er diagram](https://user-images.githubusercontent.com/83532253/135705908-6f700459-4bea-42cd-84d4-c75c83cf25af.png)
 - Class Diagram for JavaFX and Database
 ```
  classDiagram
