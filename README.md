@@ -16,3 +16,25 @@ Libraries and Tools of this project:
 - sqlite studio
 - netbeans editor
 - Java 1.8 JDK
+
+# Kelompok 9's work divisions:
+
+Arib Yusron Hamdani Handle:
+- FinalFXLMController.java
+- NasabahDataModel.java
+- DBHelper
+
+Wina Fadhilah Handle:
+- GUI FXML
+- Sqlite
+- Nasabah.java
+
+Rosmawati Handle:
+- Individu.java
+- Main.java
+- Perusahaan.Java
+- Rekening.java
+
+# Design
+- Class Diagram
+- ![mermaid-diagram-20211002123520](https://user-images.githubusercontent.com/83532253/135705343-642131e2-c681-4669-a812-d28bb7b5ecec.png)
