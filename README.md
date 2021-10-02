@@ -2,7 +2,7 @@
 
 Nama Anggota Kelompok :
 - Arib Yusron Hamdani 2017051078
-- Rosmawati
+- Rosmawati 20200040096
 - Wina Fadhilah 2017051056
 
 # About this project:
