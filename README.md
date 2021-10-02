@@ -1,9 +1,9 @@
 # Final_Project_KMMI_Kelompok9
 
 Nama Anggota Kelompok :
-- Arib Yusron Hamdani
+- Arib Yusron Hamdani 2017051078
 - Rosmawati
-- Wina Fadhilah
+- Wina Fadhilah 2017051056
 
 # About this project:
 
