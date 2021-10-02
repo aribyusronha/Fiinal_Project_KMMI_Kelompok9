@@ -1,47 +1,47 @@
 package final_project;
 
-import javafx.beans.property.IntegerProperty;
-import javafx.beans.property.SimpleIntegerProperty;
+import javafx.beans.property.LongProperty;
+import javafx.beans.property.SimpleLongProperty;
 import java.util.ArrayList;
 
 public class Individu extends Nasabah{
-    private IntegerProperty nik;
-    private IntegerProperty npwp;
+    private LongProperty nik;
+    private LongProperty npwp;
 
 
-    public Individu(Integer id_nasabah, String nama, String alamat, ArrayList<Rekening> rekening,Integer nik,Integer npwp) {
+    public Individu(Integer id_nasabah, String nama, String alamat, ArrayList<Rekening> rekening,long nik,long npwp) {
         super(id_nasabah, nama, alamat, rekening);
-        this.nik = new SimpleIntegerProperty(nik);
-        this.npwp = new SimpleIntegerProperty(npwp);
+        this.nik = new SimpleLongProperty(nik);
+        this.npwp = new SimpleLongProperty(npwp);
     }
 
-    public Individu(Integer id_nasabah, String nama, String alamat, Rekening rekening,Integer nik,Integer npwp) {
+    public Individu(Integer id_nasabah, String nama, String alamat, Rekening rekening,long nik,long npwp) {
         super(id_nasabah, nama, alamat, rekening);
-        this.nik = new SimpleIntegerProperty(nik);
-        this.npwp = new SimpleIntegerProperty(npwp);
+        this.nik = new SimpleLongProperty(nik);
+        this.npwp = new SimpleLongProperty(npwp);
     }
 
-    public Integer getNik() {
+    public long getNik() {
         return nik.get();
     }
 
-    public IntegerProperty nikProperty() {
+    public LongProperty nikProperty() {
         return nik;
     }
 
-    public void setNik(Integer nik) {
+    public void setNik(long nik) {
         this.nik.set(nik);
     }
 
-    public Integer getNpwp() {
+    public long getNpwp() {
         return npwp.get();
     }
 
-    public IntegerProperty npwpProperty() {
+    public LongProperty npwpProperty() {
         return npwp;
     }
 
-    public void setNpwp(Integer npwp) {
+    public void setNpwp(long npwp) {
         this.npwp.set(npwp);
     }
 }
