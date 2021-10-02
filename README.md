@@ -11,9 +11,8 @@ Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana
 
 Libraries and Tools of this project:
 
-mysql-connector-java-8.0.26.jar
-sqlite-jdbc-3.36.0.3.jar
-scene builder
-sqlite studio
-xampp (mysql server)
-netbeans editor
+- sqlite-jdbc-3.36.0.3.jar
+- scene builder
+- sqlite studio
+- netbeans editor
+- Java 1.8 JDK
