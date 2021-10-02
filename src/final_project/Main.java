@@ -35,16 +35,7 @@ public class Main extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //launch(args);
-        try {
-            NasabahDataModel serv = new NasabahDataModel();
-            Individu obj1 = new Individu(1,"Bambang","Jl.Deliba", new Rekening(11234,200000.0),12345,54321);
-            serv.tambahNasabah(obj1);
-            System.out.println("Sukses");
-            //DBHelper.getConnection("JDBC");
-        } catch (SQLException ex) {
-            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        launch(args);
     }
 
 }
