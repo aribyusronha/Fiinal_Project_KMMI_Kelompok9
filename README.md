@@ -37,4 +37,11 @@ Rosmawati Handle:
 
 # Design
 - Class Diagram
-- ![mermaid-diagram-20211002123520](https://user-images.githubusercontent.com/83532253/135705343-642131e2-c681-4669-a812-d28bb7b5ecec.png)
+  ![mermaid-diagram-20211002123520](https://user-images.githubusercontent.com/83532253/135705343-642131e2-c681-4669-a812-d28bb7b5ecec.png)
+- ER Diagram
+
+- Class Diagram for JavaFX and Database
+  ![mermaid-diagram-20211002121933](https://user-images.githubusercontent.com/83532253/135705366-b2801a9b-46fe-427e-bdc0-ec09cd511260.png)
+
+  
+
